@@ -12,4 +12,7 @@ TERMUX
    https://github.com/Yyetimhane/cakiriptracker
    bunu kopyalıyoruz
    sonrasında termux termınalıne girip git clone https://github.com/Yyetimhane/cakiriptracker yazarak ip trackerı kuruyoruz
-   
+
+     KOMUTLAR
+        cd cakiriptracker  
+         python ıptracker.py
